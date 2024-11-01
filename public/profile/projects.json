@@ -1,0 +1,67 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/projects1.jpeg",
+            "title": "Retail Rover",
+            "bodyText": "- Display a list of products fetched from an API.\n -  Product description, price, reviews, and specifications.\n - Add/remove products to/from the cart.\n - Adapt to different screen sizes for a seamless user experience.\n - Image gallery for product viewing.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AshuGoel2810/store"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://retailrover.netlify.app"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Redux",
+                "BootStrap",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/task2.jpg",
+            "title": "Task Management App",
+            "bodyText": "- Converted to a Progressive Web App (PWA) for offline use and better performance.\n - Minimized unnecessary re-rendering using React.memo and other optimization techniques.\n - Task creation, editing, deletion, and status management.\n - React.js for UI, Bootstrap 5 for styling.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AshuGoel2810/taskboard"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Redux",
+                "BootStrap",
+                "PWA",
+                "REST API"
+            ]
+        },
+        {
+            "image" : "images/projects/food1.jpeg",
+            "title": "Food Delivery App",
+            "bodyText": "- Easy addition of items to cartfor orders.\n -  Detailed menus with images, descriptions, and customization options for each dish.\n - Optimized for both mobile and desktop devices.\n - Animation apply for better user interface.\n - Menus and images are lazy-loaded to improve page load times.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AshuGoel2810/AshuNewton"
+
+                },
+                {
+                    "text": "Live",
+                    "href": "https://food-delivery-nw.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "Html",
+                "CSS",
+                "BootStrap",
+                "JavaScript"
+            ]
+        }
+  
+ 
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Getepay",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked On Payment Getways  ",
+                "Worked on Mobile Stacks like flutter, React Native",
+                "Enchnace the design and frontend skills."
+            ],
+            "dateText": "09/2023 – Present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Quick Live Solution",
+            "workType": "Full-time",
+            "workDescription": [
+                "Get hands-on live experience in HTML, CSS, JavaScript, React, and Redux.",
+                "Worked on Responsive design and DOM Manipulation"
+            ],
+            "dateText": "09/2022 – 08/2023"
+        },
+        {
+            "title": "Full Stack  Developer",
+            "subtitle": "Newton School",
+            "workType": "Internship",
+            "workDescription": [
+                "I gained hands-on experience in building web applications using Java, JavaScript, React.js, HTML5, and CSS. As a Full-Stack Development intern, I exposed to both front-end and back-end development."
+            ],
+            "dateText": "12/2021 – 08/2022"
+        }
+    ]
+}
